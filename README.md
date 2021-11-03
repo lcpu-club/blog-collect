@@ -27,7 +27,7 @@ LCPU 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | --   | --  | --   |
 | Alice_space (爱丽丝空格) | | https://alicespace.cn |
 | Potho 的小站（Bic_Potato）| | https://www.bicpotato.net |
-| Firestar 的幻想乡 (Firestar) | | https://blog.firestar-reimu.top |
+| Firestar 的幻想乡 (Firestar-Reimu) | | https://blog.firestar-reimu.top |
 
 ## TODO
 
