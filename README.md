@@ -30,6 +30,7 @@ LCPU 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Firestar 的幻想乡 (Firestar-Reimu) | | https://blog.firestar-reimu.top |
 | leavelet 的博客| | https://www.leavelet.io |
 | wszqkzqk 的博客| | https://wszqkzqk.github.io/ |
+| 忘忧北萱草月刊！|  | https://monthly.wybxc.cc/ |
 
 ## TODO
 
