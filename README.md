@@ -31,6 +31,7 @@ LCPU 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | leavelet 的博客| | https://www.leavelet.io |
 | wszqkzqk 的博客| | https://wszqkzqk.github.io/ |
 | 忘忧北萱草月刊！|  | https://monthly.wybxc.cc/ |
+| Twor 的博客 |  | https://twor.me |
 
 ## TODO
 
