@@ -35,6 +35,7 @@ LCPU 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Twor 的博客 |  | https://twor.me |
 | TeddyHuang 的博客 |  | https://teddyhuang-00.github.io |
 | thezzisu 的博客 | | https://blog.zisu.dev |
+| Asia_Mkey 的博客 | | https://blog.mincraft.top |
 
 ## TODO
 
