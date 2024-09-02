@@ -37,6 +37,7 @@ LCPU 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | thezzisu 的博客 | | https://blog.zisu.dev |
 | Asia_Mkey 的博客 | | https://blog.mincraft.top |
 | Arthals' ink | | https://arthals.ink |
+| LYJ 的笔记本 | | https://notes.yanjinli.fun |
 
 ## TODO
 
